@@ -1,5 +1,7 @@
-#Kalenteriohjelma
-#Akseli Nuutila 2020
+"""
+Kalenteriohjelma, ohjelmoinnin harjoitustyö 2020
+Akseli Nuutila
+"""
 
 import calendar
 import json
